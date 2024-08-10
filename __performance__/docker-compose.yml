@@ -16,7 +16,7 @@ services:
 
   # receives one-app internals metrics
   prometheus:
-    image: prom/prometheus:v2.49.1
+    image: prom/prometheus:v2.54.0
     networks:
       - one-app-performance
     volumes:
