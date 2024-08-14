@@ -43,7 +43,7 @@ services:
 
   # runs performance scripts
   k6:
-    image: grafana/k6:0.48.0
+    image: grafana/k6:0.53.0
     networks:
       - one-app-performance
     ports:
