@@ -139,7 +139,7 @@
     "transit-immutable-js": "^0.8.0",
     "transit-js": "^0.8.874",
     "url-polyfill": "^1.1.12",
-    "uuid": "^9.0.0",
+    "uuid": "^14.0.0",
     "wildcard-match": "^5.1.2",
     "yargs": "^17.5.1"
   },
